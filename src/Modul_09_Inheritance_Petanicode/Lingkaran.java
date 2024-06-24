@@ -1,4 +1,4 @@
-package Modul9_web_Inheritance;
+package Modul_09_Inheritance_Petanicode;
 
 public class Lingkaran extends BangunDatar{
 

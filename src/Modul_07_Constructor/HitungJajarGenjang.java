@@ -1,6 +1,6 @@
 // MODUL 7
 
-package Modul7_Constructor;
+package Modul_07_Constructor;
 
 public class HitungJajarGenjang {
 

@@ -1,4 +1,4 @@
-package Modul14_JavaJaringan;// package pertemuan14;
+package Modul_14_JavaJaringan;// package pertemuan14;
 import java.io.*;
 import java.net.*;
 import java.util.Scanner;

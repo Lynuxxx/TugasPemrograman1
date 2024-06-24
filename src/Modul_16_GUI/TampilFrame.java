@@ -1,4 +1,4 @@
-package Modul16_GUI;
+package Modul_16_GUI;
 
 import javax.swing.*;
 

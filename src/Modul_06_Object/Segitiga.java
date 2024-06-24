@@ -1,3 +1,4 @@
+package Modul_06_Object;
 public class Segitiga {
     private double tinggi;
     private double alas;
