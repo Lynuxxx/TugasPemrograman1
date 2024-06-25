@@ -1,4 +1,4 @@
-public class Main {
+public class Elearning12 {
     public static void main(String[] args) {
         // StringBuffer initialization
         StringBuffer nama = new StringBuffer("BagusMaulana");
